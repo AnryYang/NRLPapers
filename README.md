@@ -48,6 +48,9 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 1. **Community Preserving Network Embedding.**
 *Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang.* AAAI 2017. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/NE-Community.pdf)
 
+1. **Discriminative Deep Random Walk for Network Classification.**
+*Li, Juzheng, Jun Zhu, and Bo Zhang. * ACL (1). 2016.[paper](http://www.aclweb.org/old_anthology/P/P16/P16-1095.pdf)
+
 1. **Semi-supervised Classification with Graph Convolutional Networks.**
 *Thomas N. Kipf, Max Welling.* ICLR 2017. [paper](https://arxiv.org/pdf/1609.02907.pdf) [code](https://github.com/tkipf/gcn)
 
