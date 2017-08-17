@@ -80,3 +80,6 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
 1. **Variation Autoencoder Based Network Representation Learning for Classification.**
 *Hang Li, Haozheng Wang, Zhenglu Yang, Masato Odagaki.* ACL 2017. [paper](http://aclweb.org/anthology/P17-3010)
+
+1. **Effective Representing of Information Network by Variational Autoencoder**
+*Hang Li, Haozheng Wang, Zhenglu Yang, Masato Odagaki.* IJCAI 2017. [paper](http://static.ijcai.org/proceedings-2017/0292.pdf)
