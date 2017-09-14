@@ -83,3 +83,9 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
 1. **Effective Representing of Information Network by Variational Autoencoder**
 *Hang Li, Haozheng Wang, Zhenglu Yang, Masato Odagaki.* IJCAI 2017. [paper](http://static.ijcai.org/proceedings-2017/0292.pdf)
+
+1. **Preserving Proximity and Global Ranking for Node Embedding.**
+*Yi-An Lai, Chin-Chi Hsu, Wenhao Chen, Mi-Yen Yeh, Shou-De Lin.* To appear in NIPS 2017. 
+
+1. **Learning Graph Embeddings with Embedding Propagation.**
+*Alberto Garcia Duran, Mathias Niepert.* To appear in NIPS 2017. 
